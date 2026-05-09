@@ -1,0 +1,64 @@
+
+==================================================
+        STOCK MARKET ANALYSIS REPORT
+==================================================
+
+Ticker Symbol: AAPL
+
+Report Generated On:
+2026-05-09 19:30:48.593625
+
+--------------------------------------------------
+PRICE ANALYSIS
+--------------------------------------------------
+
+Latest Closing Price: 293.32
+
+Average Closing Price: 208.86
+
+Highest Price: 294.76
+
+Lowest Price: 122.21
+
+--------------------------------------------------
+RETURN ANALYSIS
+--------------------------------------------------
+
+Average Daily Return: 0.12%
+
+Volatility: 1.61
+
+Risk Level: Moderate Risk
+
+--------------------------------------------------
+TREND ANALYSIS
+--------------------------------------------------
+
+20-Day Moving Average: 273.21
+
+50-Day Moving Average: 262.80
+
+Current Trend: Bullish Trend 📈
+
+--------------------------------------------------
+FINAL INSIGHTS
+--------------------------------------------------
+
+1. The stock trend is identified using moving averages.
+
+2. Volatility helps estimate market risk.
+
+3. Daily returns indicate short-term performance.
+
+4. Investors can use this analysis for educational
+   research and market understanding.
+
+==================================================
+DISCLAIMER
+==================================================
+
+This project is created for educational purposes only.
+
+This is NOT financial or investment advice.
+
+==================================================
